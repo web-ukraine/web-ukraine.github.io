@@ -1,0 +1,50 @@
+# main links
+main:
+  - title: "Вивчати PHP"
+    url: /php-komentari/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+sidebar-php:
+  - title: "Коментарі"
+    url: /php-komentarі/
+  - title: "Змінні"
+    url: /php-zminni/
+    children:
+      #- title: "Змінні"
+      #  url: /php-zminni/
+      - title: "Рядкові"
+        url: /php-zminni-rjadkovі/
+      - title: "Числові"
+        url: /php-zminni-cislovі/
+      - title: "Boolean"
+        url: /php-zminni-boolean
+      #- title: "Масиви"
+      #  url: /
+      #- title: "Двовимірні масиви"
+      #  url: /
+  #- title: "Parent Page C"
+  #  children:
+  #    - title: "Child Page C1"
+  #      url: /
+  #    - title: "Child Page C2"
+  #      url: /
+  #    - title: "Child Page C3"
+  #      url: /
+  #    - title: "Child Page C4"
+  #      url: /
+  #    - title: "Child Page C5"
+  #      url: /
+  #- title: "Parent Page D"
+  #  children:
+  #    - title: "Child Page D1"
+  #      url: /
+  #    - title: "Child Page D2"
+  #      url: /
+sidebar:
+  nav: "sidebar-php"
