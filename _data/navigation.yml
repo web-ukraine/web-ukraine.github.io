@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 sidebar-php:
   - title: "Коментарі"
-    url: /php-komentarі/
+    url: /php-komentari/
   - title: "Змінні"
     url: /php-zminni/
     children:
