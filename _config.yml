@@ -252,8 +252,8 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
-  ignore:
-    envs: development
+  #ignore:
+  #  envs: development
 
 
 # Defaults
@@ -266,6 +266,6 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: # true
+      comments: true
       share: true
       related: true
