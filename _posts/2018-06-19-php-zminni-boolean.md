@@ -7,7 +7,7 @@ sidebar:
   nav: sidebar-php
 date: 2018-06-19 13:45
 ---
-Boolean може проймати два значення: true або false
+Boolean може приймати два значення: true або false
 
 **true - істина**
 

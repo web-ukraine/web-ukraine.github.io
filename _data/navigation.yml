@@ -19,9 +19,9 @@ sidebar-php:
       #- title: "Змінні"
       #  url: /php-zminni/
       - title: "Рядкові"
-        url: /php-zminni-rjadkovі/
+        url: /php-zminni-rjadkovi/
       - title: "Числові"
-        url: /php-zminni-cislovі/
+        url: /php-zminni-cislovi/
       - title: "Boolean"
         url: /php-zminni-boolean
       #- title: "Масиви"
